@@ -1,3 +1,5 @@
 void main() {}
 
-class MyClass {}
+class MyClass {
+  var tahap = "Feature A";
+}
